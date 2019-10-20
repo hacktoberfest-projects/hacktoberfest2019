@@ -28,7 +28,7 @@
 
 ## Send the Pull Request
 
-* Go to your cloned repository of HACKTOBERFEST18
+* Go to your cloned repository of HACKTOBERFEST19
 * Click on NEW PULL REQUEST
 * Then click CREATE PULL REQUEST
 * Now you are done
