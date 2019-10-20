@@ -53,7 +53,7 @@ Email:
 * Clone your fork down to your local machine
 
 ```markdown
-git clone https://github.com/your-username/hacktoberfest2018.git
+git clone https://github.com/your-username/hacktoberfest2019.git
 ```
 * Create a branch for a new feature
 ```markdown
